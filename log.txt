@@ -1,0 +1,15 @@
+Number of pixels/unit: 	1
+Unit: pixel
+Subtract Background: 1
+Rolling Ball Radius: 50
+Remove Outliers 1-radius: 0.25
+Remove Outliers 1 color: Dark
+Gaussian Blur-sigma: 2
+Remove Outliers 2-radius: 8
+Pixel Maximum: 2
+Pixel Minimum: 3
+Watershed: 1
+Remove Outliers 3-radius: 12
+Analyze Particles - Min size: 128
+Analyze Particles - Min circ: 0.75
+Measure Intensity from original image: 0
